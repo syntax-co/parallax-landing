@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.4266d066.css",
-    "main.js": "/static/js/main.68665376.js",
-    "static/media/Nunito-VariableFont_wght.ttf": "/static/media/Nunito-VariableFont_wght.4a3eef3e0a61b7eb3eda.ttf",
-    "static/media/sample-logo.png": "/static/media/sample-logo.db1cff5bacb7a04d1f8d.png",
-    "index.html": "/index.html",
-    "main.4266d066.css.map": "/static/css/main.4266d066.css.map",
-    "main.68665376.js.map": "/static/js/main.68665376.js.map"
+    "main.css": "/parallax-landing/static/css/main.66dcad5b.css",
+    "main.js": "/parallax-landing/static/js/main.253097db.js",
+    "static/media/Nunito-VariableFont_wght.ttf": "/parallax-landing/static/media/Nunito-VariableFont_wght.4a3eef3e0a61b7eb3eda.ttf",
+    "static/media/sample-logo.png": "/parallax-landing/static/media/sample-logo.db1cff5bacb7a04d1f8d.png",
+    "index.html": "/parallax-landing/index.html",
+    "main.66dcad5b.css.map": "/parallax-landing/static/css/main.66dcad5b.css.map",
+    "main.253097db.js.map": "/parallax-landing/static/js/main.253097db.js.map"
   },
   "entrypoints": [
-    "static/css/main.4266d066.css",
-    "static/js/main.68665376.js"
+    "static/css/main.66dcad5b.css",
+    "static/js/main.253097db.js"
   ]
 }
