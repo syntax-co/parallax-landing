@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/parallax-landing/src/static/css/main.dcb282c3.css",
-    "main.js": "/parallax-landing/src/static/js/main.a85d44d1.js",
-    "static/media/Nunito-VariableFont_wght.ttf": "/parallax-landing/src/static/media/Nunito-VariableFont_wght.4a3eef3e0a61b7eb3eda.ttf",
-    "static/media/sample-logo.png": "/parallax-landing/src/static/media/sample-logo.db1cff5bacb7a04d1f8d.png",
-    "index.html": "/parallax-landing/src/index.html",
-    "main.dcb282c3.css.map": "/parallax-landing/src/static/css/main.dcb282c3.css.map",
-    "main.a85d44d1.js.map": "/parallax-landing/src/static/js/main.a85d44d1.js.map"
+    "main.css": "/parallax-landing/static/css/main.66dcad5b.css",
+    "main.js": "/parallax-landing/static/js/main.253097db.js",
+    "static/media/Nunito-VariableFont_wght.ttf": "/parallax-landing/static/media/Nunito-VariableFont_wght.4a3eef3e0a61b7eb3eda.ttf",
+    "static/media/sample-logo.png": "/parallax-landing/static/media/sample-logo.db1cff5bacb7a04d1f8d.png",
+    "index.html": "/parallax-landing/index.html",
+    "main.66dcad5b.css.map": "/parallax-landing/static/css/main.66dcad5b.css.map",
+    "main.253097db.js.map": "/parallax-landing/static/js/main.253097db.js.map"
   },
   "entrypoints": [
-    "static/css/main.dcb282c3.css",
-    "static/js/main.a85d44d1.js"
+    "static/css/main.66dcad5b.css",
+    "static/js/main.253097db.js"
   ]
 }
