@@ -2,7 +2,7 @@ import { useEffect, useState } from 'react';
 import { Box, CircularProgress } from '@mui/material';
 import { motion } from 'framer-motion';
 
-import logo from './images/logo.png';
+import logo from './images/sample-logo.png';
 import './css_files/App.css';
 
 
@@ -320,8 +320,8 @@ function App() {
                 <div style={{color:'white',fontFamily:'nunito',fontSize:smallwindow? '.75rem':'1.5rem',
                             textAlign:'left',width:'100%'
                             }}>
-                We are an NFT project for all sports fans. 
-                We are developing a community that can provide real value to sports bettors, through advice of pre-game and in-game picks, and amazing utilities.
+                  We are a group that want to help you make your dream succeed. We take everything into consideration when developing your website.
+                  Functionality and a design that stays rent free in every visitors mind.
                 </div>
               </div>
 
@@ -331,7 +331,7 @@ function App() {
               }}>
               
               {/* web button */}
-              <a href='https://www.wildsportsbets.com/' style={{ textDecoration: 'none'}}>
+              <a href='https://www.munozchris.com/' style={{ textDecoration: 'none'}}>
                 <div style={{
                   height:smallwindow? '50px':"75px",
                   borderRadius:'50px',
