@@ -1,6 +1,6 @@
 {
   "name": "coming-soon",
-  "homepage": "https://syntax-co.github.io/parallax-landing",
+  "homepage": "https://syntax-co.github.io/parallax-landing/src",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
